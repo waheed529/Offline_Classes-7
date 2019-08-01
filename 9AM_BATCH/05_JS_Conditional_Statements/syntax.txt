@@ -1,0 +1,16 @@
+for(initilization ; condition ; incre/decre){
+	// statements
+}
+--------------------------------------------------
+initilization;
+while(condition){
+	// statements
+	// incre/decre (last Line)
+}
+---------------------------------------------------
+initilization;
+do{
+	// statements
+	// incre/decre (last Line)
+}
+while(condition);
